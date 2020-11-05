@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\capta\Desktop\Dev\Skills-Portfolio-codelab-ii-JoshHarper386367\Football Draw - Skills Portfolio Option 2\Source.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\capta\Desktop\Dev\Skills-Portfolio-codelab-ii-JoshHarper386367\Football Draw - Skills Portfolio Option 2\Source.cpp(199,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\capta\Desktop\Dev\Skills-Portfolio-codelab-ii-JoshHarper386367\Football Draw - Skills Portfolio Option 2\Source.cpp(166): warning C4715: 'matchScore': not all control paths return a value
+  Football Draw - Skills Portfolio Option 2.vcxproj -> C:\Users\capta\Desktop\Dev\Skills-Portfolio-codelab-ii-JoshHarper386367\Football Draw - Skills Portfolio Option 2\Debug\Football Draw - Skills Portfolio Option 2.exe
